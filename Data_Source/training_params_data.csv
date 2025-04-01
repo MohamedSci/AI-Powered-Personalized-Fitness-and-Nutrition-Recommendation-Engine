@@ -1,0 +1,14 @@
+Column Name,Data Type,Description,Example Values
+age,Integer,User's age in years,"28, 35, 22"
+gender,String,User's gender,"male, female, male"
+weight,Float,User's weight in kilograms,"75.0, 68.0, 88.0"
+height,Float,User's height in centimeters,"178.0, 165.0, 188.0"
+pushups,Integer,Number of consecutive push-ups the user can perform,"12, 8, 25"
+squats,Integer,Number of consecutive bodyweight squats the user can perform,"20, 15, 40"
+weight_lifted_squat_max,Float,Maximum weight in kilograms the user can lift for one repetition of squat,"60.0, 30.0, 110.0"
+weight_lifted_bench_max,Float,Maximum weight in kilograms the user can lift for one repetition of bench press,"50.0, 25.0, 90.0"
+target_goal,String,"User's fitness goal (should be ""building mass and strength"" for this model)",building mass and strength
+squat_sets,Integer,Recommended number of sets for Barbell Squat,"3, 3, 2004"
+squat_reps,Integer,Recommended number of repetitions for Barbell Squat,"8, 10, 2006"
+bench_sets,Integer,Recommended number of sets for Bench Press,"3, 3, 2004"
+bench_reps,Integer,Recommended number of repetitions for Bench Press,"8, 10, 2006"

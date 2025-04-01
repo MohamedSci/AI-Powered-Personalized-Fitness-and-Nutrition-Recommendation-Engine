@@ -1,0 +1,11 @@
+Column Name,Data Type,Description,Example Values
+exercise_name,String,The name of the exercise,"Barbell Squat, Bench Press, Dumbbell Rows"
+muscle_groups,String,Primary muscle groups targeted by the exercise (can be comma-separated for multiple groups),"Legs, Chest, Back"
+fitness_level,String,"Fitness level suitability (Beginner, Intermediate, Advanced)","Intermediate, Beginner, Advanced"
+equipment,String,"Equipment required for the exercise (if any, otherwise ""Bodyweight"" or ""None"")","Barbell, Dumbbells, Pull-up Bar, Bodyweight"
+exercise_type,String,"Type of exercise (e.g., Compound, Isolation, Cardio)","Compound, Compound, Isolation"
+recommended_sets_mass,String,"Recommended number of sets for building mass (e.g., ""3-4"")","3-4, 3-4, 3-4"
+recommended_reps_mass,String,"Recommended number of repetitions for building mass (e.g., ""6-12"")","6-12, 6-12, 8-12"
+recommended_sets_strength,String,"Recommended number of sets for building strength (e.g., ""3-5"")","3-5, 3-5, 3-5"
+recommended_reps_strength,String,"Recommended number of repetitions for building strength (e.g., ""3-5"")","3-5, 3-5, 3-5"
+notes,String,Any additional notes or considerations for the exercise,"Focus on form, Use a spotter for heavy lifts"

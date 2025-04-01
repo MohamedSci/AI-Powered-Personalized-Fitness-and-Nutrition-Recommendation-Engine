@@ -1,0 +1,11 @@
+Column Name,Data Type,Description,Example Values
+age,Integer,User's age in years,"25, 40, 18"
+gender,String,User's gender,"male, female, other"
+weight,Float,User's weight in kilograms,"70.5, 95.0, 55.2"
+height,Float,User's height in centimeters,"175.0, 185.5, 162.0"
+pushups,Integer,Number of consecutive push-ups the user can perform,"2, 15, 30"
+squats,Integer,Number of consecutive bodyweight squats the user can perform,"5, 25, 50"
+plank_duration,Integer,Duration in seconds the user can hold a plank,"30, 60, 120"
+running_endurance,Float,Distance in kilometers the user can run comfortably without stopping (optional),"1.0, 5.0, 10.0"
+weight_lifted_squat,Float,Maximum weight in kilograms the user can lift for one repetition (optional),"0.0 (if beginner), 80.0, 150.0"
+fitness_level,String,The target variable: User's fitness level,"Beginner, Intermediate, Advanced"

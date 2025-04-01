@@ -1,7 +1,5 @@
 # AI-Powered Personalized Fitness and Nutrition Recommendation Engine
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2410ef78f973863895846ce5a6f0978/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![SEO Friendly](https://img.shields.io/badge/SEO-Friendly-brightgreen)](https://ahrefs.com/blog/seo-friendly-content/)
 [![Professional](https://img.shields.io/badge/Professional-Quality-blue)](https://www.linkedin.com/in/yourprofile)
 
 ## ✨ Project Overview

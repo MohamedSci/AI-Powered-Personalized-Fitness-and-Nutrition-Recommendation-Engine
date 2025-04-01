@@ -1,0 +1,13 @@
+Column Name,Data Type,Description,Example Values
+age,Integer,User's age in years,"28, 35, 22"
+gender,String,User's gender,"male, female, male"
+weight,Float,User's weight in kilograms,"75.0, 68.0, 88.0"
+height,Float,User's height in centimeters,"178.0, 165.0, 188.0"
+activity_level,String,"User's self-reported activity level (e.g., Sedentary, Lightly Active, Moderately Active, Very Active, Extra Active)","Moderately Active, Lightly Active, Very Active"
+pushups,Integer,Number of consecutive push-ups the user can perform (can be used to infer activity),"12, 8, 25"
+squats,Integer,Number of consecutive bodyweight squats the user can perform (can be used to infer activity),"20, 15, 40"
+target_goal,String,"User's fitness goal (should be ""building mass and strength"")",building mass and strength
+calories,Integer,Recommended daily calorie intake,"3000, 2200, 3500"
+protein,Float,Recommended daily protein intake in grams,"150.0, 110.0, 175.0"
+carbs,Float,Recommended daily carbohydrate intake in grams,"300.0, 220.0, 350.0"
+fat,Float,Recommended daily fat intake in grams,"100.0, 75.0, 115.0"
