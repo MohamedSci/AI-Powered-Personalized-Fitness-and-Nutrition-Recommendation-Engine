@@ -1,16 +1,21 @@
-exercise_name,muscle_groups,fitness_level,equipment,exercise_type,recommended_sets_mass,recommended_reps_mass,recommended_sets_strength,recommended_reps_strength,notes
-Barbell Squat,Legs,Intermediate,Barbell,Compound,"3-4","6-12","3-5","3-5","Focus on proper form and depth."
-Bench Press,Chest,Intermediate,Barbell,Compound,"3-4","6-12","3-5","3-5","Use a spotter, control the descent."
-Deadlift,Back,Advanced,Barbell,Compound,"1-3","5-8","1-3","3-5","Maintain a straight back, hinge at the hips."
-Overhead Press,Shoulders,Intermediate,Barbell,Compound,"3-4","8-12","3-5","5-8","Control the weight, avoid arching the back excessively."
-Bent-Over Rows,Back,Intermediate,Barbell,Compound,"3-4","8-12","3-5","5-8","Keep your back straight, pull towards your lower chest."
-Pull-ups,Back,Intermediate,Pull-up Bar,Compound,"3","As many as possible (AMRAP)","3","As many as possible (AMRAP)","Use assistance if needed to reach target reps."
-Dumbbell Rows,Back,Beginner,Dumbbells,Isolation,"3","10-15","3","8-12","Maintain a stable posture."
-Dumbbell Bench Press,Chest,Beginner,Dumbbells,Compound,"3","10-15","3","8-12","Control the dumbbells, focus on the chest muscles."
-Leg Press,Legs,Beginner,Leg Press Machine,Compound,"3","10-15","3","8-12","Maintain control throughout the movement."
-Lat Pulldowns,Back,Beginner,Lat Pulldown Machine,Compound,"3","10-15","3","8-12","Pull down towards your chest, squeeze your back muscles."
-Bicep Curls,Biceps,Beginner,Dumbbells,Isolation,"3","10-15","3","8-12","Keep your elbows tucked in."
-Triceps Extensions,Triceps,Beginner,Dumbbells,Isolation,"3","10-15","3","8-12","Control the movement, focus on the triceps."
-Plank,Core,Beginner,Bodyweight,Isolation,"3","Hold for 30-60 seconds","3","Hold for as long as possible","Maintain a straight line from head to heels."
-Push-ups,Chest,Beginner,Bodyweight,Compound,"3","As many as possible (AMRAP)","3","As many as possible (AMRAP)","Modify on knees if needed."
-Lunges,Legs,Beginner,Bodyweight,Compound,"3","10-12 per leg","3","8-10 per leg","Maintain balance and proper form."
+exercise_name,muscle_groups,fitness_level,equipment,exercise_type,recommended_sets_mass,recommended_reps_mass,recommended_sets_strength,recommended_reps_strength,notes,,
+Barbell Squat,Quadriceps,Glutes,Hamstrings,Intermediate,Barbell,Compound,4-Mar,12-Aug,5-Mar,6-Mar,"Maintain straight back, depth to parallel"
+Dumbbell Bench Press,Pectorals,Triceps,Front Delts,Beginner,Dumbbells,Compound,4-Mar,12-Aug,5-Mar,6-Mar,"Elbows at 45? angle, control descent"
+Pull-Up,Latissimus Dorsi,Biceps,Core,Intermediate,Bodyweight,Compound,4-Mar,10-Jun,5-Mar,5-Mar,Full extension at bottom
+Romanian Deadlift,Hamstrings,Glutes,Lower Back,Intermediate,Barbell,Compound,4-Mar,12-Aug,5-Mar,6-Mar,"Micro-bend in knees, hinge at hips"
+Overhead Press,Shoulders,Triceps,Upper Chest,Intermediate,Barbell,Compound,4-Mar,12-Aug,5-Mar,6-Mar,Don't arch back excessively
+Push-Up,Pectorals,Triceps,Core,Beginner,Bodyweight,Compound,4-Mar,15-Oct,5-Mar,8-May,Keep body straight
+Bent Over Row,Latissimus Dorsi,Rhomboids,Biceps,Intermediate,Barbell,Compound,4-Mar,12-Aug,5-Mar,6-Mar,Back parallel to floor
+Lateral Raise,Shoulders,None,Beginner,Dumbbells,Isolation,4-Mar,15-Dec,3-Feb,10-Aug,"No swinging, pinky up",
+Bicep Curp,Biceps,None,Beginner,Dumbbells,Isolation,4-Mar,12-Oct,3-Feb,8-Jun,Control momentum,
+Tricep Dip,Triceps,Chest,Intermediate,Bodyweight,Compound,4-Mar,12-Aug,5-Mar,8-May,Lean forward for chest emphasis,
+Bulgarian Split Squat,Quadriceps,Glutes,Advanced,Dumbbells,Compound,4-Mar,12-Aug,5-Mar,8-May,Keep torso upright,
+Deadlift,Hamstrings,Glutes,Lower Back,Advanced,Barbell,Compound,4-Mar,8-May,5-Mar,5-Jan,Maintain neutral spine
+Hanging Leg Raise,Abs,Hip Flexors,Intermediate,Bodyweight,Isolation,4-Mar,15-Oct,3-Feb,10-Aug,No swinging,
+Farmer's Walk,Forearms,Traps,Core,Beginner,Dumbbells,Compound,4-Mar,30-60 sec,5-Mar,20-30 sec,"Heavy weights, upright posture"
+Box Jump,Quadriceps,Glutes,Calves,Intermediate,Bodyweight,Plyometric,4-Mar,8-May,3-Feb,5-Mar,Soft landing
+Russian Twist,Obliques,Core,Beginner,Bodyweight,Isolation,4-Mar,15-20,3-Feb,12-Oct,Slow controlled motion,
+Face Pull,Rear Delts,Rhomboids,Intermediate,Cable,Isolation,4-Mar,15-Dec,3-Feb,10-Aug,External rotation at top,
+Cable Crossover,Pectorals,None,Intermediate,Cable,Isolation,4-Mar,15-Dec,3-Feb,10-Aug,Slight forward lean,
+Hip Thrust,Glutes,Hamstrings,Intermediate,Barbell,Compound,4-Mar,12-Oct,5-Mar,8-May,Squeeze glutes at top,
+Plank,Core,None,Beginner,Bodyweight,Isolation,4-Mar,30-60 sec,3-Feb,20-30 sec,Neutral spine,

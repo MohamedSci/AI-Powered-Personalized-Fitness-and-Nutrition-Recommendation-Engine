@@ -1,11 +1,18 @@
-age,gender,weight,height,pushups,squats,plank_duration,running_endurance,weight_lifted_squat,fitness_level,bmi
-28,male,75.0,178.0,12,20,45,3.0,60.0,Intermediate,17
-45,female,65.5,165.0,5,10,30,1.5,0.0,Beginner,18
-22,male,85.0,185.0,30,50,120,8.0,120.0,Advanced,19
-35,female,70.0,170.0,8,15,60,2.5,40.0,Intermediate,20
-19,male,60.0,170.0,3,8,20,0.5,0.0,Beginner,21
-50,female,80.0,160.0,15,25,75,4.0,50.0,Intermediate,22
-29,male,90.0,190.0,35,60,150,12.0,160.0,Advanced,23
-21,female,50.0,168.0,7,12,40,1.0,0.0,Beginner,24
-38,male,78.0,180.0,20,35,90,6.0,95.0,Intermediate,25
-26,female,58.0,163.0,10,18,50,2.0,30.0,Beginner,26
+age,gender,weight,height,pushups,squats,plank_duration,running_endurance,weight_lifted_squat,weight_lifted_bench,fitness_level,bmi,activity_level
+18,male,70,175,15,25,45,3.5,60,40,Intermediate,22.9,Moderately Active
+22,female,58,165,12,20,60,4.0,40,25,Intermediate,21.3,Very Active
+25,male,85,180,25,40,90,6.0,100,70,Advanced,26.2,Extremely Active
+30,female,62,170,8,15,30,2.5,30,20,Beginner,21.5,Lightly Active
+35,male,78,178,20,35,75,5.0,85,55,Advanced,24.6,Very Active
+40,female,65,163,5,10,25,2.0,25,15,Beginner,24.5,Sedentary
+45,male,90,175,10,18,40,3.0,50,35,Intermediate,29.4,Moderately Active
+50,female,68,160,3,8,20,1.5,20,10,Beginner,26.6,Lightly Active
+28,male,72,182,30,45,120,7.5,120,90,Elite,21.7,Extremely Active
+32,female,60,168,18,30,70,5.5,55,35,Advanced,21.3,Very Active
+19,female,55,162,10,15,35,3.0,30,18,Beginner,21.0,Lightly Active
+23,male,80,185,22,38,80,5.5,95,65,Advanced,23.4,Very Active
+27,female,63,169,15,25,50,4.0,45,30,Intermediate,22.1,Moderately Active
+38,male,95,177,8,12,35,2.0,40,25,Beginner,30.3,Sedentary
+42,female,70,166,20,32,65,5.0,60,40,Advanced,25.4,Very Active
+55,male,82,173,12,20,45,3.0,55,35,Intermediate,27.4,Moderately Active
+60,female,67,158,4,6,15,1.0,15,8,Beginner,26.8,Lightly Active

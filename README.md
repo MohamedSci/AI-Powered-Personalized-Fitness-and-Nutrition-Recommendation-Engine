@@ -46,7 +46,7 @@ The project is organized with the following file and folder structure:
 
 ```
 Projects/
-└── Get_Fit_App/
+└── /
     └── Ai_Model/
         ├── Data_Source/
         │   ├── fitness_level_data.csv

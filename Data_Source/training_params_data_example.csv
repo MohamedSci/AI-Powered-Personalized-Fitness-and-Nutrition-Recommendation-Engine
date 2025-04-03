@@ -1,11 +1,15 @@
-age,gender,weight,height,pushups,squats,weight_lifted_squat_max,weight_lifted_bench_max,target_goal,squat_sets,squat_reps,bench_sets,bench_reps,bmi,deadlift_sets,deadlift_reps,overhead_sets,overhead_reps
-28,male,75.0,178.0,12,20,80.0,60.0,building mass and strength,3,8,3,8,37,10,11,12,13
-35,female,68.0,165.0,8,15,40.0,30.0,building mass and strength,3,10,3,10,38,10,11,12,13
-22,male,88.0,188.0,25,40,110.0,90.0,building mass and strength,4,6,4,6,40,10,11,12,13
-40,male,95.0,182.0,15,30,100.0,75.0,building mass and strength,3,8,3,8,35,10,11,12,13
-30,female,55.0,160.0,5,10,25.0,15.0,building mass and strength,3,12,3,12,22,10,11,12,13
-25,male,70.0,175.0,18,35,90.0,70.0,building mass and strength,4,8,4,8,23,10,11,12,13
-45,female,72.0,170.0,10,20,50.0,40.0,building mass and strength,3,10,3,10,19,10,11,12,13
-20,male,80.0,185.0,30,55,120.0,100.0,building mass and strength,4,6,4,6,17,10,11,12,13
-33,female,60.0,168.0,7,12,35.0,20.0,building mass and strength,3,12,3,12,35,10,11,12,13
-29,male,85.0,180.0,22,40,105.0,85.0,building mass and strength,4,8,4,8,25,10,11,12,13
+age,gender,weight,height,pushups,squats,weight_lifted_squat_max,weight_lifted_bench_max,target_goal,squat_sets,squat_reps,bench_sets,bench_reps,deadlift_sets,deadlift_reps,overhead_sets,overhead_reps,bmi,activity_level
+22,male,75,178,20,30,100,70,building mass and strength,4,10,4,10,4,6,3,8,23.7,Very Active
+25,female,62,170,15,25,60,40,toning,3,12,3,12,3,8,3,10,21.5,Moderately Active
+28,male,82,180,25,40,120,85,strength,5,5,5,5,5,3,4,5,25.3,Extremely Active
+32,female,68,165,18,28,70,50,endurance,3,15,3,15,3,12,3,12,25.0,Very Active
+35,male,90,175,15,25,90,65,maintenance,3,8,3,8,3,6,3,8,29.4,Moderately Active
+19,female,58,163,12,20,50,35,beginner,3,10,3,10,3,8,3,10,21.8,Lightly Active
+40,male,85,177,10,18,80,55,rehabilitation,2,12,2,12,2,10,2,12,27.1,Lightly Active
+45,female,70,168,8,15,55,40,healthy aging,3,10,3,10,3,8,3,10,24.8,Moderately Active
+30,male,77,181,30,45,140,95,powerlifting,5,3,5,3,5,2,4,3,23.5,Extremely Active
+27,female,65,172,20,35,75,55,athletic performance,4,8,4,8,4,6,3,8,22.0,Very Active
+50,male,88,173,12,20,75,50,strength maintenance,3,6,3,6,3,5,3,6,29.4,Modremely Active
+23,female,60,167,25,40,85,60,competition prep,4,6,4,6,4,4,3,6,21.5,Extremely Active
+55,male,83,174,8,12,65,45,general fitness,3,8,3,8,3,6,3,8,27.4,Moderately Active
+60,female,67,160,5,10,40,30,mobility,2,10,2,10,2,8,2,10,26.2,Lightly Active

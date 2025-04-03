@@ -1,11 +1,16 @@
 age,gender,weight,height,activity_level,pushups,squats,target_goal,calories,protein,carbs,fat,bmi
-28,male,75.0,178.0,Moderately Active,12,20,building mass and strength,3000,150.0,300.0,100.0,22
-35,female,68.0,165.0,Lightly Active,8,15,building mass and strength,2200,110.0,220.0,73.0,24
-22,male,88.0,188.0,Very Active,25,40,building mass and strength,3500,175.0,350.0,117.0,23
-40,male,95.0,182.0,Moderately Active,15,30,building mass and strength,3200,160.0,320.0,107.0,34
-30,female,55.0,160.0,Lightly Active,5,10,building mass and strength,1800,90.0,180.0,60.0,39
-25,male,70.0,175.0,Very Active,18,35,building mass and strength,2800,140.0,280.0,93.0,29
-45,female,72.0,170.0,Moderately Active,10,20,building mass and strength,2000,100.0,200.0,67.0,23
-20,male,80.0,185.0,Extra Active,38,60,building mass and strength,3800,190.0,380.0,127.0,21
-33,female,60.0,168.0,Lightly Active,7,12,building mass and strength,1900,95.0,190.0,63.0,25
-29,male,85.0,180.0,Moderately Active,22,40,building mass and strength,3300,165.0,330.0,110.0,32
+18,female,55.0,165.0,Sedentary,5,10,weight loss,1500,75.0,150.0,50.0,20.2
+22,male,70.0,175.0,Lightly Active,15,25,maintenance,2200,110.0,220.0,73.0,22.9
+25,female,62.0,170.0,Moderately Active,12,20,toning,2000,100.0,200.0,67.0,21.5
+28,male,75.0,178.0,Moderately Active,12,20,building mass and strength,3000,150.0,300.0,100.0,23.7
+32,female,68.0,163.0,Very Active,18,30,endurance training,2500,125.0,250.0,83.0,25.6
+35,male,85.0,180.0,Extremely Active,25,40,bodybuilding,3500,175.0,350.0,117.0,26.2
+40,female,60.0,160.0,Lightly Active,8,15,weight loss,1800,90.0,180.0,60.0,23.4
+45,male,90.0,175.0,Moderately Active,10,18,strength maintenance,2800,140.0,280.0,93.0,29.4
+50,female,65.0,165.0,Sedentary,3,8,healthy aging,1600,80.0,160.0,53.0,23.9
+55,male,80.0,172.0,Lightly Active,6,12,heart health,2100,105.0,210.0,70.0,27.0
+60,female,70.0,158.0,Moderately Active,4,10,weight management,1900,95.0,190.0,63.0,28.0
+65,male,75.0,170.0,Lightly Active,5,8,maintain mobility,2000,100.0,200.0,67.0,26.0
+19,female,58.0,168.0,Very Active,20,35,athletic performance,2400,120.0,240.0,80.0,20.6
+23,male,72.0,182.0,Extremely Active,30,45,competition prep,3200,160.0,320.0,107.0,21.7
+27,female,63.0,173.0,Moderately Active,15,25,postpartum recovery,2100,105.0,210.0,70.0,21.1
